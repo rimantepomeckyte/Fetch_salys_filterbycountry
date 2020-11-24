@@ -1,0 +1,11 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+#konteineris{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 200px;
+    margin: 4px;
+}
